@@ -1,2 +1,2 @@
-# Midterm-Project
+Project
 DA - Excel and SQL Project
